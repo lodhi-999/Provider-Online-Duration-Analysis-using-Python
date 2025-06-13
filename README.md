@@ -55,7 +55,7 @@ This project analyzes provider online durations from a raw dataset containing **
 | Online Events                          | 176,836      |
 | Offline Events                         | 518,831      |
 | Unique Providers (after cleaning)      | 14,914       |
-| Events after 7 PM (removed)            | 14,914       |
+| Providers after 7 PM (removed)         | 14,914       |
 | Expected Hourly Output Rows            | 4,921,620    |
 | Non-zero Online Time Entries           | 73,531       |
 
